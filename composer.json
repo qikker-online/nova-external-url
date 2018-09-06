@@ -1,0 +1,32 @@
+{
+    "name": "qikker/external-url",
+    "description": "Add external URLs to your laravel nova fields",
+    "keywords": [
+        "laravel",
+        "nova",
+        "URL",
+        "fields",
+        "External Urls"
+    ],
+    "license": "MIT",
+    "require": {
+        "php": ">=7.1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Qikker\\ExternalUrl\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Qikker\\ExternalUrl\\FieldServiceProvider"
+            ]
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
