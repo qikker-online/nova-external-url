@@ -1,6 +1,5 @@
 
 # Nova External URL Field
-[![Packagist](https://img.shields.io/packagist/v/qikker-online/external-url.svg?style=flat-square)](https://packagist.org/packages/qikker-online/external-url)
 [![Packagist](https://img.shields.io/packagist/l/qikker-online/external-url.svg?style=flat-square)](https://packagist.org/packages/qikker-online/external-url)
 
 Add external URLs to your laravel nova fields
@@ -8,7 +7,7 @@ Add external URLs to your laravel nova fields
 ## Installation
 1. `composer require qikker-online/external-url`
 
-##Usage
+## Usage
 
 To use this field you can simply add it to your `fields` method on your `Nova/Resource` like this:
 
