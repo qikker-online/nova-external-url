@@ -1,5 +1,5 @@
 {
-    "name": "qikker/external-url",
+    "name": "qikker-online/external-url",
     "description": "Add external URLs to your laravel nova fields",
     "keywords": [
         "laravel",
@@ -14,13 +14,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Qikker\\ExternalUrl\\": "src/"
+            "QikkerOnline\\ExternalUrl\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Qikker\\ExternalUrl\\FieldServiceProvider"
+                "QikkerOnline\\ExternalUrl\\FieldServiceProvider"
             ]
         }
     },

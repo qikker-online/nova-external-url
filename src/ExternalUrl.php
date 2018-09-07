@@ -1,6 +1,6 @@
 <?php
 
-namespace Qikker\ExternalUrl;
+namespace QikkerOnline\ExternalUrl;
 
 use Closure;
 use Laravel\Nova\Fields\Field;
