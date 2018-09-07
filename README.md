@@ -35,6 +35,7 @@ ExternalUrl::make('URL', 'url')->customUrl(function() {
 ```
 
 
+
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
